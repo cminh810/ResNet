@@ -24,7 +24,7 @@ ResNet 28 is a shorted version of ResNet34 with only 3 stages.
 **Augmentation**
 - Random horizontal flip
 - Random crop with padding
-- Normalization with CIFAR-10 mean/std
+- Normalization with mean = [0.5,0.5,0.5], std = [0.5,0.5,0.5]
 
 ## **Training**
 
