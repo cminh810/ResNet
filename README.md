@@ -33,7 +33,7 @@ Codes for ResNet 18/34/50/101/152 for classification and code for running ResNet
 **Hyperparameters**
 - Epochs: **100**
 - Learning rate: **0.001**
-- Optimizer: **SGD** with momentum 0.9
+- Optimizer: **Adam** 
 - Scheduler: **LinearLR** with (start_factor = 0.1, end_factor = 1, total_iters = 60)
 
 **Result** of ***Image Classification***
