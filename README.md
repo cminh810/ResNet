@@ -52,7 +52,7 @@ Codes for ResNet 18/34/50/101/152 for classification and code for running ResNet
 *Classified outputs on CIFAR-10*
 <p align="center">
   <img src="Images/CifarOutput.png" alt="Training" width="600"/> <br>
-  <em> Training loss and accuracy curves </em>
+  <em> Classified predictions </em>
 </p>
 
 ## **References**
